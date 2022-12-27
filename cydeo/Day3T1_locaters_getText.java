@@ -7,6 +7,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 public class Day3T1_locaters_getText {
+
     public static void main(String[] args) {
 
         WebDriverManager.chromedriver().setup();
